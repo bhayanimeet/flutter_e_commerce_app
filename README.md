@@ -33,7 +33,7 @@
 
 <img align="left" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40">
-<img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40">
 
 
 <h3 align="left">📲 Video</h3>
@@ -61,8 +61,8 @@ https://github.com/bhayanimeet/flutter_e_commerce_app/assets/121868259/48170a31-
 
 
 
-- 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)
-- This project is [MIT](LICENSE.md) Licensed.
+<h4 align="left">- 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)</h4>
+<h4 align="left">- This project is [MIT](LICENSE.md) Licensed.</h4>
 
 
 
