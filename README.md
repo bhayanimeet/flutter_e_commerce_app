@@ -60,8 +60,8 @@ https://github.com/bhayanimeet/flutter_e_commerce_app/assets/121868259/48170a31-
 <img src="https://github.com/bhayanimeet/flutter_e_commerce_app/assets/121868259/936a8e99-f9d2-4374-a639-8b1c37514eb1" width="220px">
 
 
-<h4 align="left">- 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)</h4>
-<h4 align="left">- This project is [MIT](LICENSE.md) Licensed.</h4>
+- 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)
+- This project is [MIT](LICENSE.md) Licensed.
 
 
 
