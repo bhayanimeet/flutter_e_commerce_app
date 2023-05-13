@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "834773964445",
+    "project_id": "e-commerce-app-ab14e",
+    "storage_bucket": "e-commerce-app-ab14e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834773964445:android:29596a5e612b6985036674",
+        "android_client_info": {
+          "package_name": "com.meet60.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834773964445-irvm69452qk3at0c7q3v42h74790m7lo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.meet60.e_commerce_app",
+            "certificate_hash": "d8d2434a9cb266fb47f5bfc315933d3cef289637"
+          }
+        },
+        {
+          "client_id": "834773964445-tiqkbin3it3mf398del423mv2dv48vvu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDz6lm7SA6Ng57ElLuD3HuJOinZznMG42g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834773964445-tiqkbin3it3mf398del423mv2dv48vvu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
