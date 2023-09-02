@@ -25,15 +25,15 @@
 - Total Price calculation functionality
 
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">💻 Languages and Tools:</h3>
 
 - Flutter
 - Dart
 - Firebase
 
+<img align="left" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40">
 <img align="left" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40">
-<img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40">
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40">
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40">
 
 
 <h3 align="left">📲 Video</h3>
@@ -59,6 +59,8 @@ https://github.com/bhayanimeet/flutter_e_commerce_app/assets/121868259/48170a31-
 <img align="left" src="https://github.com/bhayanimeet/flutter_e_commerce_app/assets/121868259/b5ce5d09-eed7-4a13-8ed9-a4928fbbad9f" width="220px">
 <img src="https://github.com/bhayanimeet/flutter_e_commerce_app/assets/121868259/936a8e99-f9d2-4374-a639-8b1c37514eb1" width="220px">
 
+
+<h3 align="left">📝 License</h3>
 
 - 👨‍💻 All of my projects are available at [Meet bhayani](https://github.com/bhayanimeet)
 - This project is [MIT](LICENSE.md) Licensed.
